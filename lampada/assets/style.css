@@ -1,0 +1,17 @@
+
+
+header, main{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+ 
+}
+
+#liga, #desliga{
+    background-color: rgb(248, 227, 2);
+    border-radius: 5px;
+    cursor: pointer;
+    height: 2rem;
+    width: 6rem;
+
+}
